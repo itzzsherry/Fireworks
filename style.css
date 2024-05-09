@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+header b{
+    color: #FFBE0F;
+}
+header{
+    background-color: #F6EEC9;
+}
+main nav{
+    background-color: #F6EEC9;
+
+}
+main h1{
+    text-align: center;
+    color: violet;
+}
+footer{
+    background-color: pink;
+    padding: 4px;
+}
+footer p{
+    background-color: white;
+}
+nav a{
+    border: 8px solid skyblue;
+    border-radius: 8%;
+    padding: 6px;
+    background-color: skyblue;
+    margin: 33px;
+}
+nav{
+    display: inline-block;
+}
+main p {
+    background-color: #E97171;
+    border-radius: 10px;
+    padding: 10px;
+}
+main h2{
+    color: skyblue;
+}
+main img{
+    border: 1px solid white;
+    border-radius: 10px;
+}
+main a{
+    border-radius: 10px;
+    padding: 10px;
+    border: 1px solid pink;
+}
