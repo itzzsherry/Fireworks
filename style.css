@@ -28,6 +28,7 @@ nav a{
     padding: 6px;
     background-color: skyblue;
     margin: 33px;
+    display: inline-block;
 }
 nav{
     display: inline-block;
